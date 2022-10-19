@@ -42,7 +42,7 @@ export default function Gameboard() {
                     name={board[i]}
                     key={"row" + i}
                     size={65}
-                    color={selectedDices[i] ? "purple" : "steelblue"}
+                    color={selectedDices[i] ? "purple" : "black"}
                 />
             </Pressable>
         );
