@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MiniYahtzee",
+    "slug": "MiniYahtzee",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MiniYahtzee"
+}
